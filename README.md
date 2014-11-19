@@ -10,3 +10,11 @@ The input is a long-form CSV data file with all the departmental returns.
 * It is management information - not official statistics. 
 * Some obvious data entry errors were corrected manually
 * some errors remain, especially in the cost data
+
+Some of the scripts rely on custom functions and data stored in the ```pbtools``` R package, which can be installed like so:
+
+```
+install.packages('devtools')
+library(devtools)
+install_github('petrbouchal/pbtools')
+```
