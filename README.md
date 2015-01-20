@@ -3,6 +3,8 @@ Workforce Management Information
 
 This repo contains code for processing, analysing and visualising UK government departments' Workforce Management Information returns.
 
+The latest data and analysis are available at http://www.instituteforgovernment.org.uk/publication/civil-service-workforce
+
 The input is a long-form CSV data file with all the departmental returns.
 
 * The original data comes from [data.gov.uk](http://data.gov.uk) or [gov.uk](http://gov.uk).
